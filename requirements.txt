@@ -1,5 +1,6 @@
 numpy
 torch>=1.2
+scikit-build
 torchvision
 matplotlib
 tensorboard
